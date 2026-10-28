@@ -1,5 +1,5 @@
 // This program demonstrates why encapsulation is important.
-// It compares a poorly designed class (public fields) with a well-designed class (private fields).
+// It compares a poorly designed class (public fields) with a well-designed class (private fields)
 
 // ============================================================
 // POORLY DESIGNED CLASS (Violates Encapsulation)
