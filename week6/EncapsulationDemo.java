@@ -40,7 +40,7 @@ class GoodStudent {
         this.name = name;
     }
 
-    // GETTER for age
+    // GETTER for the age
     public int getAge() {
         return age;
     }
