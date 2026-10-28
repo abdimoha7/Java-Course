@@ -1,0 +1,96 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Ignored default folder with query files
+/queries/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+
+# =========================================================================
+# Compiled Java Class Files & Packaged Artifacts
+# =========================================================================
+*.class
+*.log
+*.ctxt
+*.mtj.tmp/
+
+# Crash logs
+hs_err_pid*
+replay_pid*
+
+# Package files
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# =========================================================================
+# Build Tools (Maven & Gradle)
+# =========================================================================
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.next
+pom.xml.note
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# Gradle
+.gradle/
+build/
+bin/
+.gradletasknamecache
+gradle-app.setting
+!gradle-wrapper.jar
+
+# =========================================================================
+# IDE & Code Editors
+# =========================================================================
+# IntelliJ IDEA
+.idea/
+*.out
+*.iml
+*.ipr
+*.iws
+
+# Eclipse
+.metadata/
+.classpath
+.project
+.settings/
+.factorypath
+.loadpath
+*.tmp
+*.bak
+*.swp
+
+# NetBeans
+nbproject/private/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+# VS Code
+.vscode/
+.code-workspace
+
+# =========================================================================
+# Operating System Files
+# =========================================================================
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
